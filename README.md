@@ -17,4 +17,8 @@
 
 | Mentor | Project | Issues List |  
 |-|-|-|
-|  Derek | [Ride2School]https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school | [Issues](#)|
+|  Derek | [Ride2School](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school) | [Issues](#)|
+| 	Nuan	|[Go!](https://github.com/ucsb-cs56-webapps/ucsb-cs56-go)| [Issues](#)|
+
+
+
