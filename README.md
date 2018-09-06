@@ -48,6 +48,8 @@ A few specifics:
   </ul>
 ```
 
+* Add pages in `src/main/resources` for each new page.  You can copy from `hello.mustache` to `main.mustache`, etc.
+
 
 # How we will grade the work on the projects
 
