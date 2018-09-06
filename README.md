@@ -54,3 +54,29 @@ Note:
   * Agile values helping people getting stuff done over slavish devotion to processes or tools.
   
 
+# Skunk Works? What's that?
+
+Suppose you know you need a thing in your project, such as:
+
+* User authentication
+* Database access
+* Testing of webapps with selenium
+* Access to the Google Maps API
+* Reading data from a CSV or JSON file (e.g. about Dogs, Recipies, Courses, etc.) into an ArrayList or HashMap of plain old Java Objects.
+
+You can probably come up with many more ideas of "useful components" that:
+* might now immediately deliver value for a user of your web app, but 
+* you can plausibly make a case that they are useful things to learn how to do
+
+These are examples of what you might develop in a "skunk works" project.
+
+To develop a Skunk Works project:
+
+* Put an issue into the issues list that describes it
+* Ask your mentor to review it, and approve it (they may have suggestions for modificaitons before they say yes)
+* Ask them to put a point estimate on it (100, 200 or 400 points)
+* Then, create a public repo with this naming convention, under the organization <https://github.com/ucsb-cs56-m18>.  If the project is `dogwalker` and the issue number you are working on is `9`, use:
+    * https://github.com/ucsb-cs56-m18/ucsb-cs56-dogwalker-sw9
+    
+Then BEFORE you start working, FORK that repo to one of your personal repos, and do your work THERE.  This allow you then later do a pull request, so there is something that your mentors, TAs and instructors can REVIEW.
+
