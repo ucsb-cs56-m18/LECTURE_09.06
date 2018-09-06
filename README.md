@@ -65,6 +65,16 @@ SparkMustacheDemo02.java
 
 * Add pages in `src/main/resources` for each new page.  You can copy from `hello.mustache` to `main.mustache`, etc.
 
+* Also change the main name in:
+   * `pom.xml` in the main class name
+   * in the `ProcFile`
+   * in `src/main/resources/log4j.properties`
+      * `log4j.logger.SparkMustacheDemo01=DEBUG, stdout` to `log4j.logger.WebappCatalogMain=DEBUG, stdout`
+   * Also change in the main, these lines of Java code that set up the logger:
+      ```
+       public static final String CLASSNAME="WebappCatalogMain";
+       public static final Logger log = Logger.getLogger(CLASSNAME);
+      ```
 
 # How we will grade the work on the projects
 
