@@ -5,6 +5,26 @@
 
 * Use <https://github.com/ucsb-cs56-pconrad/sparkjava-mustache-example-02> as an example.
 
+# Step by step for the 200 points
+
+1. Fork your project repo to your own personal github space 
+   * (e.g. instead of github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker 
+      it should be github.com/cgaucho/ucsb-cs56-dogwalker, a fork of the main repo )
+2. Clone that fork into some directory (working github directory)
+3. Clone the repo [sparkjava-mustache-example-02](https://github.com/ucsb-cs56-pconrad/sparkjava-mustache-example-02)
+   as a sibling of the forked project repo.  You want them both to be in the same parent directory.
+   * The idea is that you can copy files from  `../sparkjava-mustache-example-02` 
+      into `ucsb-cs56-dogwalker` 
+4. Copy the files `pom.xml`, the `src` directory, and the `Procfile` from the example.
+5. Start editing the files to turn the example into your webapp:
+   * Edit `src/main/resources/templates/nav.mustache`
+   * Rename the java source file with the `main`
+   * Rename the package
+   * Adjust the `pom.xml`
+   * Add additional template files as needed.
+   
+   
+
 
 # How we will grade the work on the projects
 
