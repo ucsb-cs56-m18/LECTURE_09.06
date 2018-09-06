@@ -23,7 +23,30 @@
    * Adjust the `pom.xml`
    * Add additional template files as needed.
    
-   
+A few specifics:
+
+* The "brand", i.e. name of your webapp, should look like this.  Change `href="#"` to `href="/"`.
+   `#` is often used as a "dummy placeholder" for links that we haven't defined yet.  `/` is the root
+   of your website i.e. the page you go to when you only enter the url, without anything extra,
+   e.g. https://ucsb-cs56-dogwalker.herokuapp.com 
+   instead of https://ucsb-cs56-dogwalker.herokuapp.com/newdog
+
+```
+      <a class="navbar-brand" href="/">ucsb-cs56-webapps-catalog</a>
+```
+
+* Just remove stuff you aren't using (e.g. search bar). You can get it back if you need it later 
+   by visiting the link at the top of the file in the comment.
+
+* Create links to the pages that you'll have in your webapp, like this:
+
+```
+  <ul class="nav navbar-nav">
+        <li class="active"><a href="/list">List Webapps <span class="sr-only">(current)</span><\
+/a></li>
+        <li><a href="/update/mentors">Update Mentors</a></li>
+  </ul>
+```
 
 
 # How we will grade the work on the projects
