@@ -48,6 +48,21 @@ A few specifics:
   </ul>
 ```
 
+* Rename the package and the main program as appropriate for your webapp.
+
+```
+169-231-91-0:cs56 pconrad$ pwd
+/Users/pconrad/github/cs56/09.06/ucsb-cs56-webapp-catalog/src/main/java/edu/ucsb/cs56
+169-231-91-0:cs56 pconrad$ ls
+pconrad
+169-231-91-0:cs56 pconrad$ git mv pconrad/ webapp_catalog
+169-231-91-0:cs56 pconrad$ cd webapp_catalog/
+169-231-91-0:webapp_catalog pconrad$ ls
+SparkMustacheDemo02.java
+169-231-91-0:webapp_catalog pconrad$ git mv SparkMustacheDemo02.java WebappCatalogMain.java
+169-231-91-0:webapp_catalog pconrad$ 
+```
+
 * Add pages in `src/main/resources` for each new page.  You can copy from `hello.mustache` to `main.mustache`, etc.
 
 
