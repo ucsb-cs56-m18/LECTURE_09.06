@@ -80,3 +80,10 @@ To develop a Skunk Works project:
     
 Then BEFORE you start working, FORK that repo to one of your personal repos, and do your work THERE.  This allow you then later do a pull request, so there is something that your mentors, TAs and instructors can REVIEW.
 
+# IDEAS of what to work on
+
+* Setting up a basic navigation bar with placeholders for the features of your mininum viable product webapp
+* Setting up a skunk works based on the rest-mlab demo for storing some basic object that relates to your project
+* Setting up a form to enter data for your webapp 
+* Working on sessions and authentication, either in a skunkworks, or in your main app.
+TODO: Add more ideas here...
