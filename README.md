@@ -1,6 +1,11 @@
 # LECTURE_09_06
 
 
+# Demo of adding Navigation with Bootstrap to your project
+
+* Use <https://github.com/ucsb-cs56-pconrad/sparkjava-mustache-example-02> as an example.
+
+
 # How we will grade the work on the projects
 
 * Each student needs to earn 1000 points to get their "full grade" for the project component of their final grade.
