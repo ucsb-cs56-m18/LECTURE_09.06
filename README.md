@@ -19,6 +19,15 @@
 |-|-|-|
 |  Derek | [Ride2School](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school) | [Issues](#)|
 | 	Nuan	|[Go!](https://github.com/ucsb-cs56-webapps/ucsb-cs56-go)| [Issues](#)|
+| Wilson | [ScrapsToSnacks](https://github.com/ucsb-cs56-webapps/ucsb-cs56-scrapstosnacks	
+) | [Issues](#)|
+| Fuheng | [GauchoCourses](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchocourses) | [Issues]( )|
+| Yunkai | [Go Gaucho](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gogaucho) | [Issues]( )|
+| Chandler | [GauchoGains](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchogains) | [Issues]( )|
+| Zihao | [GauchoAlarm](	) | [Issues]( )|
+| Omer | [DogWalker](https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker/issues)|
+| Conrad | [WebApp-Catalog](	) | [Issues]( )|
+
 
 
 
