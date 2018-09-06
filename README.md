@@ -25,8 +25,32 @@
 | Chandler | [GauchoGains](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchogains) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchogains/issues)|[Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchogains/projects/2)|
 | Zihao | [GauchoAlarm](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchoalarm) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchoalarm/issues) |[Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchoalarm/projects/1) |
 | Omer | [DogWalker](https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker/issues)|[Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker/projects/1)|
-| Conrad | [WebApp-Catalog](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog/issues) | [Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog/projects/1) | 
+| Conrad | [WebApp-Catalog](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog/issues) | [Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-webapp-catalog/projects/2) | 
 
 
+# What is a Kanban board?
 
+* Simply put: it is a visual/physical representation of work in progress. 
+* The work *Kanban* comes from the Japanese language; the concept originated in work done in Japan on improving efficiency of work processes.
+* The idea is to:
+   * Know how much work you have at each stage in the pipeline from "TO-DO" to "WORK-IN-PROGRESS" to "DONE"
+   * Use the visual representation to see how work is flowing (or not)
+   * Do what you can to keep work flowing through the system
+   * Minimize "WORK-IN-PROGRESS"; this is the central idea of so-called "Lean Business" (Lean Software, Lean Manufacturing, etc.)
+   
+# What kinds of "issues" will we put on the Kanban board?
+
+* Anything that helps us move forward with the projects:
+   * Adding features
+   * Improving the UI/UX
+   * Fixing bugs
+   * Planning
+   * "Skunk-works" projects
+   * Adding testing
+
+Note:
+  * that in some "pure" forms of Agile, not all of those things would be considered "issues".  
+  * Also note: "pure Agile" is contrary to the spirit of Agile.  
+  * Agile values helping people getting stuff done over slavish devotion to processes or tools.
+  
 
