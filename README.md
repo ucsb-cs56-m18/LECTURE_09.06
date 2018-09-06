@@ -15,9 +15,9 @@
    
 # Those story links:
 
-| Mentor | Project | Issues List |  
+| Mentor | Project | Issues List |  m18-project |
 |-|-|-|
-|  Derek | [Ride2School](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school/issues)|
+|  Derek | [Ride2School](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school/issues)| [Project](https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school/projects/1)|
 | 	Nuan	|[Go!](https://github.com/ucsb-cs56-webapps/ucsb-cs56-go)| [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-go/issues)|
 | Wilson | [ScrapsToSnacks](https://github.com/ucsb-cs56-webapps/ucsb-cs56-scrapstosnacks	) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-scrapstosnacks/issues)|
 | Fuheng | [GauchoCourses](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchocourses) | [Issues](https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchocourses/issues)|
